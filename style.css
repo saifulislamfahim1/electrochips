@@ -1,0 +1,193 @@
+
+
+/* this is hero start */
+.herobutton{
+    border-radius: 50px;
+    color: white;
+    background-color: #4b208c;
+    border: 4px solid #4b208c;
+    margin-top: 30px;
+}
+.herotext{
+    color: black;
+    font-weight: 700;
+}
+.herotextone{
+    color: black;
+    margin-top: 20px;
+}
+.heroimg{
+    border-radius: 100%;
+    border: 5px solid #4b208c;
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+/* this is hero end */
+
+/* this is service start */
+.servicetext{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.servicetextone{
+    text-align: center;
+    color: #4b208c;
+}
+.servicetexttwo{
+    text-align: center;
+    color: gray;
+}
+.servicebutton{
+    color: white;
+    background-color: #4b208c;
+    border: 5px solid #4b208c;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+/* this is service end */
+
+/* this is about start */
+.aboutbutton{
+    border-radius: 5px;
+    color: white;
+    background-color: #4b208c;
+    border: 4px solid #4b208c;
+    margin-top: 30px;
+}
+.abouttext{
+    color: black;
+    font-weight: 700;
+}
+.abouttextone{
+    color: black;
+    margin-top: 20px;
+}
+.aboutimg{
+    border-radius: 100%;
+    border: 5px solid #4b208c;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.aboutimg1{
+    border-radius: 100%;
+    border: 5px solid #4b208c;
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.aboutimage1{
+    position: relative;
+    margin-left: 400px;
+    margin-top: 400px;
+    margin-bottom: 50px;
+}
+.aboutimage{
+    position: absolute;
+    margin-left: 550px;
+}
+/* this is about end */
+
+/* this is blog start */
+.blogtext{
+    color: black;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 700;
+}
+.blogtextone{
+    font-weight: 700;
+    color: black;
+}
+/* this is blog end */
+
+/* this is contact start */
+.contact{
+    width: 450px;
+    height: 50px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-style: none;
+}
+.contactone{
+    width: 450px;
+    height: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    border-style: none;
+}
+.contacttwo{
+    width: 450px;
+    height: 50px;
+    font-weight: 700;
+    margin-left: 50px;
+    border-style: none;
+}
+.contactthree{
+    width: 450px;
+    height: 100px;
+    font-weight: 700;
+    margin-left: 50px;
+    border-style: none;
+}
+.contactbutton{
+    display: block;
+    margin-left: 50px;
+    margin-top: 15px;
+    width: 120px;
+    height: 45px;
+    color: white;
+    background-color: #4b208c;
+    border-style: none;
+}
+.contacttext{
+    margin-left: 50px;
+    margin-top: 100px;
+    font-weight: 700;
+}
+.contactgoogle{
+    font-family: monospace;
+    margin-left: 100px;
+    margin-top: 180px;
+}
+/* this is contact end */
+
+/* this is footer start */
+.footer{
+    background-color: #190734;
+}
+.footertextone{
+    margin-top: 100px;
+    color: white;
+    margin-right: 200px;
+}
+.footertexttwo{
+    margin-top: 100px;
+    color: white;
+}
+.footertextthree{
+    margin-top: 100px;
+    color: white;
+    margin-left: 200px;
+}
+.footerinput{
+    margin-top: 30px;
+    width: 550px;
+    height: 45px;
+    margin-left: 50px;
+    border-style: none;
+    margin-bottom: 100px;
+}
+.footerbutton{
+    margin-top: 30px;
+    height: 45px;
+    width: 250px;
+    border-style: none;
+    background-color: #4b208c;
+    color: white;
+}
+/* this is footer end */
